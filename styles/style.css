@@ -1,0 +1,38 @@
+html {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 10px;
+  font-style: normal;
+
+  ul {
+    letter-spacing: 1px;
+  }
+
+  div {
+line-height: 2;
+  }
+
+}
+
+html {
+  background-color: #E6E6FA;
+}
+
+body {
+  width: autopx;
+  padding: 10px 0 30px 40px;
+  border: 2px solid black
+}
+
+h1 {
+  padding: 0 0 0 40px;
+  color: dimgrey;
+}
+
+h5 {
+  color: rgb(46, 45, 45);
+  padding: 10px 10px 10px 10px;
+  border: 2px solid black;
+  display: block;
+  /* хочу в рамочку стоимость выделить, но чёта не получается */
+}
